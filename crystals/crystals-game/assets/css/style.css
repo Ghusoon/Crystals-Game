@@ -1,0 +1,71 @@
+
+body{
+    background:rgba(130, 210, 221, 0.87);
+    margin-left: 10px;
+    
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    background: orange;
+    color: white;
+    width: 250px;
+    height: 70px;
+    margin-top: 10px;
+    line-height: 70px;
+}
+section{
+    background:#FBE6CD;
+    width:350px;
+    height: 400px;
+    margin-top: 10px;
+    color:green;
+    font-weight: bold;
+    padding-left: 5px;
+    
+}
+.number{
+   
+    background: #2BA294;
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+
+aside{
+    margin: 10px;
+    background: #4AFDFE;
+    width: 70px;
+    height: 100px;
+    margin-left: 210px; 
+    line-height: 40px;
+    padding-left: 5px;
+  
+   
+
+}
+#randnum{
+    float: left;
+    background:  rgb(128, 179, 128);
+    font-size: 30px;
+}
+
+#score{
+    height: 30px;
+    clear: both;
+    line-height: 30px;
+    color:white;
+
+}
+
+.crystals{
+    width: 70px;
+    height: 70px;
+}
+ 
+#result{
+    color:white;
+    font-size: 30px;
+   
+}
